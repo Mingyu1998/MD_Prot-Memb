@@ -6,7 +6,7 @@
 
 This repository contains a collection of Python scripts for analyzing molecular dynamics (MD) simulations of protein-membrane systems. The tools are written to work with the **MDAnalysis** library and are primarily designed for Coarse-Grained (CG) simulation data.
 
-This toolkit was developed as part of a DPhil project in Computational Biochemistry, focusing on the interactions between PAMAM dendrimers and bacterial membrane models.
+This toolkit was developed as part of a DPhil project in Computational Biochemistry, focusing on the interactions between proteins/ligands and membrane models.
 
 ## 🔬 Key Analyses Included
 
